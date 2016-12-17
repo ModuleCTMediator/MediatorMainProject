@@ -1,0 +1,7 @@
+platform:ios, '7.0'
+
+target "MediatorMainProj" do
+
+	pod "A_Category", :path => "../A_Category"
+
+end
