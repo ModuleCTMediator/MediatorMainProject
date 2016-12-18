@@ -1,0 +1,32 @@
+PODS:
+  - A (0.0.1)
+  - A_Category (0.0.1):
+    - CTMediator
+  - CTMediator (0.0.2)
+
+DEPENDENCIES:
+  - A (from `https://github.com/YSRepository/A.git`)
+  - A_Category (from `https://github.com/YSRepository/A_Category.git`)
+
+EXTERNAL SOURCES:
+  A:
+    :git: https://github.com/YSRepository/A.git
+  A_Category:
+    :git: https://github.com/YSRepository/A_Category.git
+
+CHECKOUT OPTIONS:
+  A:
+    :commit: 97ac57c542171d3dbc7753b919fabb94f73038a6
+    :git: https://github.com/YSRepository/A.git
+  A_Category:
+    :commit: c1a7ac7486e71820b925eeaab7abb900b88d22b1
+    :git: https://github.com/YSRepository/A_Category.git
+
+SPEC CHECKSUMS:
+  A: 4570f89ace8393d077e79ead55dd9a93bdba97ef
+  A_Category: 1be7b11d2a222e07ee0d114ae0c572f22c2c0129
+  CTMediator: da466319e36f9e0d033af4769c0741d04c6b14c5
+
+PODFILE CHECKSUM: 57e8c05f2892997c8f526e587c554afc5203a31c
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,20 @@
+{
+  "name": "A",
+  "version": "0.0.1",
+  "summary": "A pod of A.",
+  "description": "Create A podspec to private pod",
+  "homepage": "https://github.com/YSRepository/A",
+  "license": "MIT",
+  "authors": {
+    "YunsChou": "2647754496@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/YSRepository/A.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "A/A/A/**/*",
+  "requires_arc": true
+}

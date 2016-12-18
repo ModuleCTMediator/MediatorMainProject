@@ -1,7 +1,8 @@
-platform:ios, '7.0'
+platform:ios,'7.0'
 
 target "MediatorMainProj" do
 
-	pod "A_Category", :path => "../A_Category"
+	pod "A", :git => "https://github.com/YSRepository/A.git"
+	pod "A_Category", :git => "https://github.com/YSRepository/A_Category.git"
 
 end
