@@ -2,7 +2,7 @@ platform:ios,'7.0'
 
 target "MediatorMainProj" do
 
-	pod "A", :git => "https://github.com/YSRepository/A.git"
-	pod "A_Category", :git => "https://github.com/YSRepository/A_Category.git"
+	pod "A", :git => "https://github.com/ModuleCTMediator/A.git"
+	pod "A_Category", :git => "https://github.com/ModuleCTMediator/A_Category.git"
 
 end
